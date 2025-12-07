@@ -1,8 +1,8 @@
-# Replication Package for "[Your Full Article Title]"
+# Replication Package for "Integrating Scene Theory and Spatial Narrative: Toward a Human-Centered Approach to Urban Storytelling and Design"
 
 This folder contains reproducibility materials for the article:
 
-[Authors], "[Full Article Title]", submitted to [Journal Name].
+Chen Siman, "Integrating Scene Theory and Spatial Narrative: Toward a Human-Centered Approach to Urban Storytelling and Design", submitted to Plos One.
 
 ## Folders
 
@@ -25,3 +25,4 @@ This folder contains reproducibility materials for the article:
 source("code/01_simulate_synthetic_data.R")
 source("code/02_clean_and_construct_indices.R")
 source("code/03_main_regression_models.R")
+
